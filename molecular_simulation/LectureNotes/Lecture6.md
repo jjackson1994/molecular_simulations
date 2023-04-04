@@ -45,12 +45,12 @@ Relationship between atom 1 and 3
 Affected by many factors, so many atoms
 torsion angles  
 
-May take from IR but fails the complexity of enviroment 
+May take from IR but fails the complexity of environment 
 
-Intrinsically disordered protiens, helices always came out original bias from cristalography
-strongly enviroment dependent. Try to improve angle may make a bifg diffrence in our simulations
+Intrinsically disordered proteins, helices always came out original bias from crystallography
+strongly environment dependent. Try to improve angle may make a big difference in our simulations
 
-Prolinine lecture 2, has out of plane movment 
+Prolinine lecture 2, has out of plane movement 
 
 Add pdf link
 
@@ -63,6 +63,57 @@ Important regulation of transcription, nature cares about this
 Effects that we don't realize intuitatively. 
 
 Vand der Walls assumed weak not always ie high ionic strength the becomme more dominant 
+
+## Working with FF: Asking correct questions
+
+```pdf
+{"url" : "LectureNotes/Lecture_6_forcefields_MM.pdf",
+"page": 53}
+```
+
+* what is the ensemble
+* kinetic question what is timescale for moving between this minimialization can tell if the simulation is correct
+
+Have to make these decisions at the start difficult
+
+IE protein folding happen at ms timescale do i have access to this regime 
+
+```pdf
+{"url" : "LectureNotes/Lecture_6_forcefields_MM.pdf",
+"page": 55}
+```
+
+## MM technique that uses classical objects
+Spings & forces 
+
+Most useful goal nowdays remove steric clash 
+Other goals better done with molecular dynamics 
+Optimization problem minimal 2nd derivatives +
+
+Optimization techniques chose based on dist from minimum
+```pdf
+{"url" : "LectureNotes/Lecture_6_forcefields_MM.pdf",
+"page": 60}
+```
+
+```pdf
+{"url" : "LectureNotes/Lecture_6_forcefields_MM.pdf",
+"page": 61}
+```
+```pdf
+{"url" : "LectureNotes/Lecture_6_forcefields_MM.pdf",
+"page": 62}
+```
+Switching between methods really important 
+
+conjugate grad can shoot over minimum 
+without may converge on first minimum 
+
+```pdf
+{"url" : "LectureNotes/Lecture_6_forcefields_MM.pdf",
+"page": 63}
+```
+Not really exploring the phase space in MM
 
 
 
