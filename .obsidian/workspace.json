@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "ee04976e5ca3b08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a8cb5f5eae6b1f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a80bc73ef5de1e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53646b1d40027bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38828a8bd6750d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a50172a51cf0e8b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "93bf7fb16091ed31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1ab4f3ba519aa9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8dc31b5ab993e707",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d36da3154a606711",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7015beebd2b92409",
+    "type": "split",
+    "children": [
+      {
+        "id": "71b93e0713410194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ff3f25a603659f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8de313c490695a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "520b71ce0b32999c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf999a47d5cf7961",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "38828a8bd6750d77",
+  "lastOpenFiles": [
+    "Lecture7.md",
+    "README.md",
+    "LectureNotes/README.md",
+    "LectureNotes/Lecture6.md",
+    "LectureNotes/Lecture7_MD_I.pdf",
+    "bash.html",
+    "mk_html.sh",
+    "Lecture7_MD_I.pdf",
+    "LectureNotes/Lecture_6_forcefields_MM.pdf",
+    "LectureNotes"
+  ]
+}

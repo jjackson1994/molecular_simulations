@@ -1,0 +1,7 @@
+{
+  "pinned": [
+    "obsidian-git:push2",
+    "obsidian-git:commit-staged-specified-message",
+    "obsidian-git:commit"
+  ]
+}
