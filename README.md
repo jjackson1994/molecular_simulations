@@ -11,3 +11,4 @@ This repo contains (and project?)
 - [x]  Install amber
 - [ ] Decide project
 - [ ] Complete the amber tutorial
+- [ ] Install VMD (can use Python depending on use case) <br>Very useful for visualizing problems 
