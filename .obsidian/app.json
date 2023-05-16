@@ -1,5 +1,7 @@
 {
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "absolute"
 }

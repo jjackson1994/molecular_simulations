@@ -18,10 +18,10 @@
     {
       "id": "spwhvw4rld",
       "platform_specific_commands": {
-        "default": "bash ~/mk_html.sh -f ~/Documents/Thesis/ -o ~/Documents/Thesis/thesis_pdfs.html"
+        "default": "bash ~/mk_html.sh -f ~/msim/ -o ~/msim/msim_pdfs.html"
       },
       "shells": {},
-      "alias": "",
+      "alias": "get_pdfs",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],

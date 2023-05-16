@@ -2,6 +2,7 @@
   "pinned": [
     "obsidian-git:push2",
     "obsidian-git:commit-staged-specified-message",
-    "obsidian-git:commit"
+    "obsidian-git:commit",
+    "obsidian-shellcommands:shell-command-spwhvw4rld"
   ]
 }

@@ -1,9 +1,13 @@
 This repo is a collection of the tools and lecture notes used during the 2023 molecular simulation course.
 
-This repo contains 
+### Resources 
+* [Course Moodle](https://stem.elearning.unipd.it/course/view.php?id=5227)
+* [Office 365 for word notes](https://www.office.com/?auth=2)
+
+This repo contains (and project?) 
 * [Lecture Notes](LectureNotes/README.md)
 
-## ToDo 
-
-[ ] Install amber
-[ ] 
+## To Do 
+- [x]  Install amber
+- [ ] Decide project
+- [ ] Complete the amber tutorial

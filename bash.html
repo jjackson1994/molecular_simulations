@@ -1,8 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+</style>
+<script>
+function myFunction(pdf_text) {
+  navigator.clipboard.writeText(pdf_text);
+  var tooltip = document.getElementById("myTooltip");
+  tooltip.innerHTML = "Copied: " + pdf_text;
+}
+
+function outFunc() {
+  var tooltip = document.getElementById("myTooltip");
+  tooltip.innerHTML = "Copy to clipboard";
+}
+</script>
 </head>
 <body>
- <a href="file:///home/jake/msim/molecular_simulation/LectureNotes/Lecture_6_forcefields_MM.pdf".pdf ><p>/home/jake/msim/molecular_simulation/LectureNotes/Lecture_6_forcefields_MM.pdf</p></a> <a href="file:///home/jake/msim/molecular_simulation/LectureNotes/Lecture7_MD_I.pdf".pdf ><p>/home/jake/msim/molecular_simulation/LectureNotes/Lecture7_MD_I.pdf</p></a>
+
 </body>
 </html>
