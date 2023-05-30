@@ -4,59 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "1a8cb5f5eae6b1f0",
+        "id": "12ef694258da7a03",
         "type": "tabs",
         "children": [
           {
-            "id": "beb2659013127e27",
+            "id": "6d9687ba8b226493",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "amber/AmberPracticle2.md",
+                "file": "Project/ProjectNotes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9ae4d22348f3247d",
+            "id": "8f0eca6494f46cf0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "OpenMM/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4500f3411f632b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenMM/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a077dfc0909a0af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Project/2022_Biomolecules.pdf"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Project/2022_Biomolecules.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Project/2022_Biomolecules.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Project/2022_Biomolecules.pdf"
               }
             }
           }
@@ -191,27 +165,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a077dfc0909a0af",
+  "active": "8f0eca6494f46cf0",
   "lastOpenFiles": [
+    "Project/ProjectNotes.md",
+    "Project/README.md",
+    "Project/2021/OldProjectInfo.md",
+    "Project/2022_Biomolecules.pdf",
+    "README.md",
+    "images/protien_contact_map.png",
+    "Pasted image 20230523162757.png",
+    "amber/Amber_Install.md",
     "OpenMM/README.md",
+    "amber/AmberPracticle2.md",
     "OpenMM/MD_Simulations_with_OpenMM.pdf",
     "OpenMM/Molecular_dynamics_analysis_libraries.pdf",
-    "Project/2021/OldProjectInfo.md",
     "images/OpenMM.png",
-    "Project/README.md",
     "Project/2021",
     "Project",
-    "README.md",
     "bash.html",
     "OpenMM/part_1_openmm_fuxreiter_2023_r2.pdf",
     "OpenMM",
-    "amber/AmberPracticle2.md",
     "amber/amber_home.md",
     "amber/tutorial/Amber_model_preparation/hivrt_efz_amber.pdb",
     "amber/tutorial/Amber_model_preparation/hivrt_efz.rst7",
-    "amber/tutorial/Amber_model_preparation/hivrt_efz.prmtop",
     "amber/AmberPractical.md",
-    "amber/Amber_Install.md",
     "().md",
     "LectureNotes/Lecture7.md",
     "LectureNotes/README.md",
