@@ -8,7 +8,7 @@ This repo contains (and project?)
 * [Lecture Notes](LectureNotes/README.md)
 
 ## To Do 
-- [x]  Install amber
-- [ ] Decide project
-- [ ] Complete the amber tutorial
-- [ ] Install VMD (can use Python depending on use case) <br>Very useful for visualizing problems 
+- [ ]  read the papers (melika)
+- [ ]  listen to the audio
+- [ ]  play with the data to see what we are dealing with (plots) 
+- [ ] I think we can find relative importance oof each if the params and that may hrlp monika 
